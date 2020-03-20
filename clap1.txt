@@ -1,0 +1,16 @@
+1 Abduction
+2 PuzzleSolve
+3 TableFans
+4 ThunderClap
+5 KnightBlade
+6 EmperorAxe
+7 ClockWorkMod
+8 RainOfStars
+9 SuperStar
+10 TheMonster
+11 TheFaithGiver
+12 ActionMaster
+13 OneofOneness
+14 PrideIsPower
+15 HumbledNature
+16 
